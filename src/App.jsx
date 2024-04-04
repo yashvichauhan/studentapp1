@@ -5,7 +5,7 @@ import "./index.css";
 
 const App = () => (
   <div className="container">
-    <h3>The student1 application test</h3>
+    <h2>The Student1 Application Form</h2>
     <StudentForm/>
   </div>
 );
